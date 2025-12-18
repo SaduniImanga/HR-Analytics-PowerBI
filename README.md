@@ -13,7 +13,7 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 
 ## Tools
 - Microsoft Power BI
-- DAX
+- DAX (Data Analysis Expressions)
 - Data Modeling & Visualization
 
 ## Dataset
