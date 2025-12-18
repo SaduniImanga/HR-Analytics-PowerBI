@@ -20,4 +20,4 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 Public HR dataset sourced from Google Drive (used for learning purposes).
 
 ## Dashboard Preview
-![Dashboard](HR_Dashboard_overview.png)
+![Dashboard](HR_Dashboard_overwiew.png)
